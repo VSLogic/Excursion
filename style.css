@@ -1,1 +1,17 @@
-blank
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.downlink {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
